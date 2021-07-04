@@ -1,0 +1,61 @@
+{
+  "machine": {
+    "outlets": {
+      "countN": 6
+    },
+    "totalItemsQuantity": {
+      "hotWater": 100,
+      "hotMilk": 100,
+      "sugarSyrup": 100,
+      "coffee": 100,
+      "iceCream": 100,
+      "cream": 100,
+      "chocolateSyrup": 100,
+      "coldWater": 100,
+      "coldMilk": 100,
+      "ice": 100
+    },
+    "beverages": {
+      "blackCoffee": {
+        "hotWater": 50,
+        "coffee": 50,
+        "sugarSyrup": 20
+      },
+      "cappuccino": {
+        "hotWater": 50,
+        "hotMilk": 50,
+        "sugarSyrup": 50,
+        "coffee": 70,
+        "cream": 50
+      },
+      "frappe": {
+        "coldWater": 50,
+        "coldMilk": 50,
+        "sugarSyrup": 40,
+        "coffee": 50,
+        "cream": 50,
+        "iceCream": 60,
+        "ice": 50
+      },
+      "hotCoffee": {
+        "hotWater": 20,
+        "hotMilk": 40,
+        "sugarSyrup": 10,
+        "coffee": 30
+      },
+      "hotChocolate": {
+        "hotWater": 40,
+        "hotMilk": 70,
+        "sugarSyrup": 30,
+        "chocolateSyrup": 50
+      },
+      "mocha": {
+        "hotWater": 50,
+        "hotMilk": 70,
+        "sugarSyrup": 50,
+        "coffee": 50,
+        "chocolateSyrup": 60
+      }
+    }
+  }
+}
